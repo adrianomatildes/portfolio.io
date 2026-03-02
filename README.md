@@ -59,10 +59,10 @@ Para rodar localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/adrianomatildes/adrianomatildes.github.io.git
+git clone https://github.com/adrianomatildes/adrianomatildes.portfolio.io.git
 
 # Acesse a pasta
-cd adrianomatildes.github.io
+cd adrianomatildes.portfolio.io
 
 # Abra no navegador (ou use Live Server)
 open index.html
