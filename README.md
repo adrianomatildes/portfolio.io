@@ -5,7 +5,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-> Portfólio profissional de DevOps Engineer especializado em Cloud, Kubernetes e CI/CD.
+> Portfólio profissional de DevOps Engineer em Cloud, Kubernetes e CI/CD.
 
 ## 🚀 Sobre
 
