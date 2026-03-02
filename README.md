@@ -42,7 +42,7 @@ Este é o código-fonte do meu portfólio profissional, desenvolvido com HTML5, 
 
 ## 🌐 Acesso
 
-O portfólio está disponível em: **https://adrianomatildes.portfolio.io**
+O portfólio está disponível em: **https://adrianomatildes/portfolio.io**
 
 ## 📋 Funcionalidades
 
